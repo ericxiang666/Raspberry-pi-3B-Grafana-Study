@@ -22,8 +22,12 @@
 ```bash
 sudo apt update
 sudo apt install prometheus
+ˋˋˋ
 <img width="437" height="73" alt="image" src="https://github.com/user-attachments/assets/96b2252d-350f-433f-a606-ad0594744532" />
 
 檢查是否正常啟動，看到綠字active即可
+
+ˋˋˋbash
 systemctl status prometheus
+ˋˋˋ
 <img width="1286" height="116" alt="image" src="https://github.com/user-attachments/assets/47ae5f21-cccb-4a54-8558-de708d8acdc7" />
